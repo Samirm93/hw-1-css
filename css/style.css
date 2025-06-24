@@ -3,7 +3,7 @@ body{
     font-size: 20px;
 }
 header{
-    background-color: blue;
+    background-color: beige;
 }
 nav{
     background-color: aquamarine;
@@ -24,7 +24,7 @@ li{
 h1{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: cornflowerblue;
+    color: blue;
 }
 p{
     line-height: 1.1;
